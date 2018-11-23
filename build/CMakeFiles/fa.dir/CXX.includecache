@@ -1,0 +1,28 @@
+#IncludeRegexLine: ^[ 	]*#[ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/afs/deptinfo-st.univ-fcomte.fr/users/ncourvoi/Bureau/TL/automate/Automaton.cc
+Automaton.h
+/afs/deptinfo-st.univ-fcomte.fr/users/ncourvoi/Bureau/TL/automate/Automaton.h
+cassert
+-
+
+/afs/deptinfo-st.univ-fcomte.fr/users/ncourvoi/Bureau/TL/automate/Automaton.h
+cstddef
+-
+iostream
+-
+set
+-
+vector
+-
+
+/afs/deptinfo-st.univ-fcomte.fr/users/ncourvoi/Bureau/TL/automate/fa.cc
+Automaton.h
+/afs/deptinfo-st.univ-fcomte.fr/users/ncourvoi/Bureau/TL/automate/Automaton.h
+
